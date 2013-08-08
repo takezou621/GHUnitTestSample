@@ -9,5 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface Calc : NSObject
+-(int)add:(int)a :(int)b;
 
 @end
